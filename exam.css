@@ -54,19 +54,18 @@ body,td,th {
 	clear:both;
 	width: 940px;
 	margin-top:3em!important;
-	color: #c89f9c;
+	background-color: #c89f9c;
 	}
 
 #looks {
-	background-color: #FF3;
+	background-color: #c89f9c;
 	float: left;
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
-	color: #C89F9C;
 }
 
-.heading {background-color:#FF3;
+.heading {background-color: #c89f9c;
 padding:.75em;
 text-align:center;}
 
@@ -80,4 +79,5 @@ margin:0px auto
 text-align:right;
 float:right;
 font-style:italic;
-background-color:#99FF00;}
+background-color: #c97c5d;
+}
