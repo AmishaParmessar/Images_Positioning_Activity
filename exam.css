@@ -6,6 +6,10 @@ h1 {text-align:center;
 text-transform:uppercase;
 font-size:2.5em;}
 
+body{
+	bacground-color: #eee2df;
+}
+
 #content {
 	width: 960px;
 	margin-top: 0px;
@@ -50,6 +54,7 @@ body,td,th {
 	clear:both;
 	width: 940px;
 	margin-top:3em!important;
+	color: #C89F9C;
 	}
 
 #looks {
@@ -58,6 +63,7 @@ body,td,th {
 	width: 300px;
 	padding:1em;
 	margin:0px 1em 1em 0px;
+	color: #C89F9C;
 }
 
 .heading {background-color:#FF3;
