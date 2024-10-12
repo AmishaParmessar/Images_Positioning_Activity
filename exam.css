@@ -38,7 +38,8 @@ body,td,th {
 	float: left;
 	width: 300px;
 	border-right-style: solid;
-	margin:0px .8em 0px 0px;}
+	margin-top:3em!important;
+	color: #C89F9C;
 	
 #contact {
 	float: left;
@@ -55,6 +56,7 @@ body,td,th {
 	clear:both;
 	width: 940px;
 	margin-top:3em!important;
+	color: #C89F9C;
 	}
 
 #looks {
