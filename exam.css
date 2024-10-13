@@ -4,10 +4,12 @@
 
 h1 {text-align:center;
 text-transform:uppercase;
-font-size:2.5em;}
+font-size:2.5em;
+color: #772e25;
+   }
 
 body{
-	bacground-color: #eed7c5;
+	background-color: #eed7c5;
 }
 
 #content {
